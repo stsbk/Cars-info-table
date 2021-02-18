@@ -1,0 +1,14 @@
+.header {
+    background: #F8F7F8;
+}
+
+.logo {
+    position: relative;
+    top: 25px;
+    right: 30px;
+}
+
+.car_logo {
+    position: relative;
+    left: 5px;
+}
